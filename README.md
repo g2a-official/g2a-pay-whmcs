@@ -1,4 +1,6 @@
-# G2A Pay module for WHMCS
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+## G2A Pay module for WHMCS
 
 WHMCS  - a leader in the web hosting automation, the platform handles everything from sign-ups, provisioning and billing in order to allow online store owners to take full control of their business. WHMCS offers various set-up and assistance services to help customers get up and running with the platform.
 
